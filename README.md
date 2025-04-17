@@ -43,5 +43,6 @@ web-server-ec2/
 ## 📸 Screenshot
 
 
-![Screenshot from 2025-04-17 20-52-54](https://github.com/user-attachments/assets/adbe421c-b357-4e1a-a9e0-dbb197c54ae8)
+![Screenshot from 2025-04-17 20-52-54](https://github.com/user-attachments/assets/04537c20-7321-4587-b6a5-75f51ae0c772)
+
 
