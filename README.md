@@ -42,5 +42,6 @@ web-server-ec2/
 
 ## 📸 Screenshot
 
-![screenshot](https://via.placeholder.com/800x400.png?text=EC2+Web+Server+Deployed)
+
+![Screenshot from 2025-04-17 20-52-54](https://github.com/user-attachments/assets/adbe421c-b357-4e1a-a9e0-dbb197c54ae8)
 
